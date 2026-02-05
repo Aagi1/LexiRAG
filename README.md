@@ -1,9 +1,8 @@
-#LexiRAG (RAG Pipeline)
+##LexiRAG (RAG Pipeline)
 
 Ce projet est une implémentation d'un système **RAG (Retrieval-Augmented Generation)** permettant d'indexer des documents PDF locaux et d'interroger leur contenu de manière intelligente grâce à l'intelligence artificielle.
 
-## Fonctionnalités
----
+# Fonctionnalités
 
 * **Ingestion de PDF** : Chargement récursif de documents depuis un dossier local.
 * **Découpage Intelligent (Chunking)** : Utilisation de `RecursiveCharacterTextSplitter` pour préserver la cohérence des phrases.
@@ -11,7 +10,7 @@ Ce projet est une implémentation d'un système **RAG (Retrieval-Augmented Gener
 * **Base de données Vectorielle** : Stockage persistant avec **ChromaDB** pour des recherches ultra-rapides.
 
 
-## Architecture du Projet
+# Architecture du Projet
 ---
 
 Le système suit le flux de traitement suivant :
@@ -23,7 +22,7 @@ Le système suit le flux de traitement suivant :
 4.  **Stockage** : Les vecteurs et métadonnées sont sauvegardés dans une collection ChromaDB.
 
 
-## Lancer le projet
+# Lancer le projet
 
   ```bash
   python main.py
