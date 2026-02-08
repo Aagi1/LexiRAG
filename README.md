@@ -26,5 +26,5 @@ Le système suit le flux de traitement suivant :
 ### Pou lancer le projet
 
   ```bash
-  python main.py
+  python app.py
 ```
