@@ -2,7 +2,7 @@
 
 Ce projet est une implémentation d'un système **RAG (Retrieval-Augmented Generation)** permettant d'indexer des documents PDF locaux et d'interroger leur contenu de manière intelligente grâce à l'intelligence artificielle.
 
-<img width="1307" height="429" alt="image" src="https://github.com/user-attachments/assets/741189c3-f350-4f24-8cac-b6cc3a22a4db" />
+<img width="1254" height="558" alt="image" src="https://github.com/user-attachments/assets/597920bd-316b-4b3b-8f0d-94bb3a171fef" />
 
 ### Fonctionnalités
 
