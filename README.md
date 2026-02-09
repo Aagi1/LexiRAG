@@ -10,6 +10,7 @@ Ce projet est une implémentation d'un système **RAG (Retrieval-Augmented Gener
 * **Découpage Intelligent (Chunking)** : Utilisation de `RecursiveCharacterTextSplitter` pour préserver la cohérence des phrases.
 * **Embeddings sémantiques** : Conversion du texte en vecteurs mathématiques via le modèle `all-MiniLM-L6-v2`.
 * **Base de données Vectorielle** : Stockage persistant avec **ChromaDB** pour des recherches ultra-rapides.
+* **Interface web** : Chat avec une interface web fait avec **Streamlit**.
 
 
 ### Architecture du Projet
