@@ -23,11 +23,9 @@ Le système suit le flux de traitement suivant :
 3.  **Vectorisation** : Chaque morceau est transformé en un vecteur de **384 dimensions**.
 4.  **Stockage** : Les vecteurs et métadonnées sont sauvegardés dans une collection ChromaDB.
 
-<img width="720" height="420" alt="image" src="https://github.com/user-attachments/assets/c80629c2-fe2f-4afc-b880-83413d6a350b" />
-
 
 ### Pou lancer le projet
 
   ```bash
-  python app.py
+  streamlit run ui.py
 ```
